@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36bfa9d5-717b-4b02-9ef6-24b9b3ef4aa6" name="Default Changelist" comment="add text from services">
+    <list default="true" id="36bfa9d5-717b-4b02-9ef6-24b9b3ef4aa6" name="Default Changelist" comment="add favicon">
       <change beforePath="$PROJECT_DIR$/resources/views/partials/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/head.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615552810040</updated>
       <workItem from="1615552813885" duration="10354000" />
-      <workItem from="1615566651508" duration="2343000" />
+      <workItem from="1615566651508" duration="2612000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615566779052</created>
@@ -204,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615572494380</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add favicon">
+      <created>1615572690369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615572690369</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add favicon">
+      <created>1615572814787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615572814787</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,17 +240,18 @@
     <MESSAGE value="change env.example" />
     <MESSAGE value="remove text from services" />
     <MESSAGE value="add text from services" />
-    <option name="LAST_COMMIT_MESSAGE" value="add text from services" />
+    <MESSAGE value="add favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="add favicon" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2378" y="430" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1615561886992">
       <screen x="1680" y="131" width="1920" height="1080" />
     </state>
     <state x="2378" y="430" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1680.1050/1680.131.1920.1080@1680.131.1920.1080" timestamp="1615561886992" />
-    <state x="2240" y="436" key="Vcs.Push.Dialog.v2" timestamp="1615572495778">
+    <state x="2240" y="436" key="Vcs.Push.Dialog.v2" timestamp="1615572816025">
       <screen x="1680" y="131" width="1920" height="1080" />
     </state>
-    <state x="2240" y="436" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.131.1920.1080@1680.131.1920.1080" timestamp="1615572495778" />
+    <state x="2240" y="436" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.131.1920.1080@1680.131.1920.1080" timestamp="1615572816025" />
     <state x="2339" y="426" width="602" height="490" key="find.popup" timestamp="1615566382791">
       <screen x="1680" y="131" width="1920" height="1080" />
     </state>

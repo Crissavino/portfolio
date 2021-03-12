@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>&#x2606; Cristian Maximiliano Savino &#x2606; | Online Portfolio</title>
+<title>Cristian Maximiliano Savino | Online Portfolio</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Cristian Savino's portfolio where you can see my job experience as Full Stack Web Developer and some of my projects" />
 <meta name="keywords" content="web developer, full stack, portfolio, mobile developer, website developer, html5, css3, mobile first, responsive" />
