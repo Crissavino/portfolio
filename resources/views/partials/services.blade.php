@@ -14,8 +14,8 @@
 										<i class="icon-genius"></i>
 									</span>
                         <div class="feature-copy">
-                            <h3>Web Developent</h3>
-{{--                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>--}}
+                            <h3>Web Development</h3>
+                            <p>Develop your sites with the best techniques and practice.</p>
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
 									</span>
                         <div class="feature-copy">
                             <h3>Web Design</h3>
-{{--                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>--}}
+                            <p>Responsive, beautiful and modern designs for yours web apps.</p>
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
 									</span>
                         <div class="feature-copy">
                             <h3>Web Marketing</h3>
-{{--                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>--}}
+                            <p>I research your brand's market and how to be on top.</p>
                         </div>
                     </div>
                 </div>
