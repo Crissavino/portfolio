@@ -15,7 +15,7 @@
 									</span>
                         <div class="feature-copy">
                             <h3>Web Developent</h3>
-                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+{{--                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>--}}
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
 									</span>
                         <div class="feature-copy">
                             <h3>Web Design</h3>
-                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+{{--                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>--}}
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
 									</span>
                         <div class="feature-copy">
                             <h3>Web Marketing</h3>
-                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+{{--                            <p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>--}}
                         </div>
                     </div>
                 </div>
