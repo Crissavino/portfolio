@@ -1,6 +1,6 @@
 <div id="fh5co-consult">
     <div class="choose animate-box">
-        <h2 class="text-center" style="margin-bottom: 40px">Hire Me!</h2>
+        <h2 class="text-center" style="margin-bottom: 40px">Work together!</h2>
         <form action="/contact-me" method="POST">
             @csrf
             <div class="row form-group">

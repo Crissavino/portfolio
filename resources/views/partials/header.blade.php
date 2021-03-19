@@ -12,6 +12,7 @@
                         <p>
                         <ul class="fh5co-social-icons">
                             <li><a target="_blank" href="https://www.linkedin.com/in/crissavino/"><i class="icon-linkedin2"></i></a></li>
+                            <li><a target="_blank" href="https://github.com/Crissavino"><i class="icon-github2"></i></a></li>
                         </ul>
                         </p>
                     </div>
