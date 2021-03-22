@@ -50,7 +50,7 @@
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h3 class="timeline-title">Web Developer</h3>
-                                <span class="company">Freelance - SEPTEMBER 2018 - PRESENT</span>
+                                <span class="company"><a href="">Freelance</a> - SEPTEMBER 2018 - PRESENT</span>
                             </div>
                             <div class="timeline-body">
                                 <p>● As a freelance developer I am fully in charge of the entire process of creation and
