@@ -8,7 +8,7 @@
                     <div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
                         <div class="profile-thumb" style="background: url(images/profile-color.jpg);"></div>
                         <h1><span>Cristian M Savino</span></h1>
-                        <h3><span>Full Stack Web Developer / Flutter Developer</span></h3>
+                        <h3><span>Project Manager - Flutter Developer - Web Developer</span></h3>
                         <p>
                         <ul class="fh5co-social-icons">
                             <li><a target="_blank" href="https://www.linkedin.com/in/crissavino/"><i class="icon-linkedin2"></i></a></li>
