@@ -12,7 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="36bfa9d5-717b-4b02-9ef6-24b9b3ef4aa6" name="Default Changelist" comment="update cv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/emails/contact/contactforus.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/emails/contact/contactForUs.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +183,7 @@
       <workItem from="1615566651508" duration="3343000" />
       <workItem from="1616151248078" duration="653000" />
       <workItem from="1616415199301" duration="1052000" />
-      <workItem from="1667916511398" duration="3042000" />
+      <workItem from="1667916511398" duration="3901000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1615566779052</created>
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667919308631</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update cv">
+      <created>1667919729365</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667919729365</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
