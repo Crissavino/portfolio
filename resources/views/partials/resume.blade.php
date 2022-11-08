@@ -11,23 +11,54 @@
                     <li class="timeline-heading text-center animate-box">
                         <div><h3>Work Experience</h3></div>
                     </li>
+                    <li class="timeline-inverted animate-box">
+                        <div class="timeline-badge"><i class="icon-suitcase"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">Founder</h3>
+                                <span class="company"><a href="">jackCode</a> - DECEMBER 2022 - PRESENT</span>
+                            </div>
+                            <div class="timeline-body">
+                                <p>● Full creation of Digital Products.</p>
+                                <p>● Help companies or clients to develop their own products or features.</p>
+                                <p>● Advise customers with the technologies that I consider necessary for each
+                                    development.</p>
+                            </div>
+                        </div>
+                    </li>
                     <li class="animate-box timeline-unverted">
                         <div class="timeline-badge"><i class="icon-suitcase"></i></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h3 class="timeline-title">Full Stack Web Developer</h3>
-                                <span class="company"><a target="_blank" href="https://rocknetltd.com/">Rocknet</a> - NOVEMBER 2020 - PRESENT</span>
+                                <h3 class="timeline-title">Lead Developer</h3>
+                                <span class="company"><a target="_blank" href="https://horizonweb.io/">Horizon Web</a> - DECEMBER 2021 - DECEMBER 2022</span>
                             </div>
                             <div class="timeline-body">
-                                <p>● I am responsible for creating news web apps that the owners require to then
-                                    monetize.</p>
-                                <p>● I deploy in production at the end of every task via FTP.</p>
-                                <p>● Mainly I work alone, weekly I make a sample of what has been done to
-                                    the managers.</p>
+                                <p> ● Forming part of a skilled team of developers with close relation with
+                                    the Product Owner and CEOs. </p>
+                                <p> ● Lead the development, transformation, and delivery of the best
+                                    possible digital product. </p>
+                                <p> ● My goal is to plan, define, and implement both product and technical
+                                    roadmaps and architecture. </p>
                             </div>
                         </div>
                     </li>
                     <li class="timeline-inverted animate-box">
+                        <div class="timeline-badge"><i class="icon-suitcase"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">Full Stack Web Developer</h3>
+                                <span class="company"><a target="_blank" href="https://horizonweb.io/">Horizon Web</a> - NOVEMBER 2020 - DECEMBER 2021</span>
+                            </div>
+                            <div class="timeline-body">
+                                <p> ● I am responsible for creating new web apps that the owners require. </p>
+                                <p> ● I deployed the code in production at the end of every task via FTP and SSH. </p>
+                                <p> ● Mainly I worked alone, weekly I made a sample of what had been done to
+                                    the managers. </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="animate-box timeline-unverted">
                         <div class="timeline-badge"><i class="icon-suitcase"></i></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -42,22 +73,6 @@
                                     Sprints.</p>
                                 <p>● Together with the team of developers we take care of carrying out the new projects
                                     that the product owners request of us.</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="animate-box timeline-unverted">
-                        <div class="timeline-badge"><i class="icon-suitcase"></i></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h3 class="timeline-title">Web Developer</h3>
-                                <span class="company"><a href="">Freelance</a> - SEPTEMBER 2018 - PRESENT</span>
-                            </div>
-                            <div class="timeline-body">
-                                <p>● As a freelance developer I am fully in charge of the entire process of creation and
-                                    deployment in production of the requested product.</p>
-                                <p>● I do both developments both on the front-end side as well as on the back-end.</p>
-                                <p>● I also advise clients with the technologies that I consider necessary for each
-                                    development.</p>
                             </div>
                         </div>
                     </li>
@@ -81,29 +96,29 @@
                     <li class="timeline-heading text-center animate-box">
                         <div><h3>Education</h3></div>
                     </li>
+                    <li class="timeline-inverted animate-box">
+                        <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">Google Project Management Certificate</h3>
+                                <span class="company"><a target="_blank" href="https://www.coursera.org/professional-certificates/google-project-management">Google</a> - MAY 2021 - JULY 2021</span>
+                            </div>
+                            <div class="timeline-body">
+                            </div>
+                        </div>
+                    </li>
                     <li class="animate-box timeline-unverted">
                         <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h3 class="timeline-title">Full Stack Web Developer Course</h3>
-                                <span class="company"><a target="_blank" href="https://digitalhouse.com.ar">Digital House</a> - 2002 - 2006</span>
+                                <h3 class="timeline-title">Flutter: Take your knowledge to the next level</h3>
+                                <span class="company"><a target="_blank" href="https://udemy.com">Udemy</a> - OCTOBER 2020</span>
                             </div>
                             <div class="timeline-body">
                             </div>
                         </div>
                     </li>
                     <li class="timeline-inverted animate-box">
-                        <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h3 class="timeline-title">Angular: From zero to expert</h3>
-                                <span class="company"><a target="_blank" href="https://udemy.com">Udemy</a> - JULY 2019</span>
-                            </div>
-                            <div class="timeline-body">
-                            </div>
-                        </div>
-                    </li>
-                    <li class="animate-box timeline-unverted">
                         <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
@@ -114,12 +129,23 @@
                             </div>
                         </div>
                     </li>
+                    <li class="animate-box timeline-unverted">
+                        <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h3 class="timeline-title">Angular: From zero to expert</h3>
+                                <span class="company"><a target="_blank" href="https://udemy.com">Udemy</a> - JULY 2019</span>
+                            </div>
+                            <div class="timeline-body">
+                            </div>
+                        </div>
+                    </li>
                     <li class="timeline-inverted animate-box">
                         <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h3 class="timeline-title">Flutter: Take your knowledge to the next level</h3>
-                                <span class="company"><a target="_blank" href="https://udemy.com">Udemy</a> - OCTOBER 2020</span>
+                                <h3 class="timeline-title">Full Stack Web Developer Course</h3>
+                                <span class="company"><a target="_blank" href="https://digitalhouse.com.ar">Digital House</a> - 2018</span>
                             </div>
                             <div class="timeline-body">
                             </div>

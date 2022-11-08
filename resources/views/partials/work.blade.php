@@ -7,34 +7,34 @@
         </div>
         <div class="row">
             <div class="col-md-3 text-center col-padding animate-box">
-                <a href="https://contadordepalabrasonline.com/" target="_blank" class="work" style="background-image: url(images/contador.png);">
+                <a href="https://fulbito.app/" target="_blank" class="work" style="background-image: url(images/fulbito.png);">
                     <div class="desc">
-                        <h3>Contador de palabras online</h3>
-                        <span>Service</span>
+                        <h3>Mobile App</h3>
+                        <span>Football Matches App</span>
                     </div>
                 </a>
             </div>
             <div class="col-md-3 text-center col-padding animate-box">
-                <a href="https://celltracer.net/" target="_blank" class="work" style="background-image: url(images/celltracer.png);">
+                <a href="https://realcryptoway.com" target="_blank" class="work" style="background-image: url(images/realcryptoway.png);">
                     <div class="desc">
-                        <h3>Celltracer</h3>
-                        <span>Mobile Localization</span>
+                        <h3>Real Crypto Way</h3>
+                        <span>NFT Art Generator</span>
                     </div>
                 </a>
             </div>
             <div class="col-md-3 text-center col-padding animate-box">
-                <a href="https://fastconvertor.com/" target="_blank" class="work" style="background-image: url(images/fastcovertor.png);">
+                <a href="https://pili-health.com/" target="_blank" class="work" style="background-image: url(images/pilihealth.png);">
                     <div class="desc">
-                        <h3>Fastconvertor</h3>
-                        <span>Conversion Site</span>
+                        <h3>Pili-Health</h3>
+                        <span>Health Coach Services</span>
                     </div>
                 </a>
             </div>
             <div class="col-md-3 text-center col-padding animate-box">
-                <a href="https://maxiconvert.com/" target="_blank" class="work" style="background-image: url(images/maxiconvert.png);">
+                <a href="https://printer-office.com/" target="_blank" class="work" style="background-image: url(images/printeroffice.png);">
                     <div class="desc">
-                        <h3>Maxiconvert</h3>
-                        <span>Conversion Site</span>
+                        <h3>Printer Office</h3>
+                        <span>Print On Demand</span>
                     </div>
                 </a>
             </div>
