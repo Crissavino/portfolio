@@ -20,6 +20,8 @@ Route::get('/', function () {
 
 Route::post('/contact-me', function () {
 
+    return redirect()->back();
+
     $validated = request()->validate(
         [
             'name' => 'required|max:255',
